@@ -1,0 +1,41 @@
+.container {
+  background-color: azure;
+  width: 660px;
+  border-bottom: 3px;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+}
+
+.blackheader {
+  background-color: rgb(78, 68, 68);
+  color: white;
+  text-align: center;
+  width: 660px;
+  height: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+}
+
+.mainbody {
+  text-align: center;
+  font-size: 30px;
+}
+
+.form-check {
+  margin: 5px 5px 5px 300px;
+}
+
+button {
+  text-align: center;
+  background-color: rgb(29, 92, 173);
+  color: white;
+  padding: 20px 40px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#butP {
+  text-align: center;
+}
